@@ -8,6 +8,7 @@ System.out.println("Welcome for testing ant");
 System.out.println("testing ant 1");
 System.out.println('testing ant 2');
 System.out.println('testing ant 3');
+System.out.println("testing new project");
 
 	}
 
