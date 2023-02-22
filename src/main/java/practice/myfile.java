@@ -16,6 +16,7 @@ System.out.println("testing maven with webhooks");
 System.out.println("projects webhooks");
 System.out.println("PollSCMProjects");
 System.out.println("new test for pollscm");
+System.out.println(8521*25);
 
 
 
