@@ -27,7 +27,9 @@ System.out.println("testing new");
 System.out.println("Mavenpooltest");
 System.out.println("code25");
 System.out.println("polscmtest");
-System.out.println("Halima is my best cooker");
+System.out.println("rare maven");
+System.out.println(250-36);
+
 
 
 	}
